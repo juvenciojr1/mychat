@@ -1,4 +1,4 @@
-# mychat
+# Mychat
 Follow of https://channels.readthedocs.io/en/latest/tutorial
 
 # Tutorial's updates
