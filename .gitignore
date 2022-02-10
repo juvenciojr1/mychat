@@ -1,7 +1,1 @@
-
 *.pyc
-*.pyc
-chat/__pycache__/admin.cpython-38.pyc
-chat/__pycache__/models.cpython-38.pyc
-chat/__pycache__/views.cpython-38.pyc
-mychat/__pycache__/settings.cpython-38.pyc
